@@ -1,0 +1,10 @@
+D:\test technique\LibStore\LibStore\bin\Debug\LibStore.exe.config
+D:\test technique\LibStore\LibStore\bin\Debug\LibStore.exe
+D:\test technique\LibStore\LibStore\bin\Debug\LibStore.pdb
+D:\test technique\LibStore\LibStore\bin\Debug\Newtonsoft.Json.dll
+D:\test technique\LibStore\LibStore\bin\Debug\Ninject.dll
+D:\test technique\LibStore\LibStore\bin\Debug\Newtonsoft.Json.xml
+D:\test technique\LibStore\LibStore\bin\Debug\Ninject.xml
+D:\test technique\LibStore\LibStore\obj\Debug\LibStore.exe
+D:\test technique\LibStore\LibStore\obj\Debug\LibStore.pdb
+D:\test technique\LibStore\LibStore\bin\Debug\store.json
